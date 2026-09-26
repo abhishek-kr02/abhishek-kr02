@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="1000395547" src="https://github.com/user-attachments/assets/c9fdbb5d-f6e5-401a-a7e7-84d72d98533c" />
+<img width="300" height="300" alt="1000395547" src="https://github.com/user-attachments/assets/c9fdbb5d-f6e5-401a-a7e7-84d72d98533c" />
 
 <!--
   GitHub Profile README — Abhishek Kumar (@Abhishek-kr02)
